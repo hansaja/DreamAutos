@@ -1,0 +1,51 @@
+body
+{
+	background-color: black;
+		color:white;
+	
+	
+	
+}
+
+.car {
+	
+	height: 15%;
+	width :100%;
+	background:grey;
+
+
+}
+.main {
+	
+	
+}
+
+
+
+.N2 {
+	float:left;
+	width: 45%;
+	height: 50%;
+	
+
+	
+}
+
+
+.N3 {
+	float: right;
+	width: 45%;
+	height: 50%;
+
+
+	
+}
+.by {
+	float:center;
+	width: 60%;
+	height: 50%;
+	
+
+	
+}
+

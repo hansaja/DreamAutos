@@ -1,0 +1,157 @@
+.row1 {
+	
+	height: 15%;
+	width :100%;
+	background:red;
+
+
+}
+.mainNews {
+	padding:1px;
+	
+	width:100%;
+	height: 50%;
+	
+}
+
+.maintitle {
+	width: 50%;
+	height: 30%;
+	float: left;
+}
+
+.maindetails {
+	width: 50%;
+	height: 70%;
+	float: left;
+}
+
+.mainimg {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.row3 {
+	height: 5%;
+	width:100%;
+	background:white;
+	color:white;
+}
+
+.container {
+	width:100%;
+	height: 100%;
+	
+}
+.news{
+	width: 100%;
+	height: 50%;
+}
+
+.N2 {
+	float:left;
+	width: 50%;
+	height: 50%;
+	
+}
+
+.N2title {
+	width: 50%;
+	height: 30%;
+	float: left;
+}
+
+.N2details {
+	width: 50%;
+	height: 70%;
+	float: left;
+}
+
+.N2img {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.N3 {
+	float: right;
+	width: 50%;
+	height: 50%;
+	
+}
+
+.N3title {
+	width: 50%;
+	height: 30%;
+	float: left;
+}
+
+.N3details {
+	width: 50%;
+	height: 70%;
+	float: left;
+}
+
+.N3img {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.N4 {
+	float:left;
+	width: 50%;
+	height: 50%;
+	
+}
+
+.N4title {
+	width: 50%;
+	height: 30%;
+	float: left;
+}
+
+.N4details {
+	width: 50%;
+	height: 70%;
+	float: left;
+}
+
+.N4img {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.N5 {
+	float: right;
+	width: 50%;
+	height: 50%;
+	
+}
+
+.N5title {
+	width: 50%;
+	height: 30%;
+	float: left;
+}
+
+.N5details {
+	width: 50%;
+	height: 70%;
+	float: left;
+}
+
+.N5img {
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.footer {
+	
+	background: gray;
+	width: 100%;
+	height: 10%;
+}
